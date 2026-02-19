@@ -1,0 +1,6 @@
+flask
+pandas
+gspread
+plotly
+xlsxwriter
+gunicorn
